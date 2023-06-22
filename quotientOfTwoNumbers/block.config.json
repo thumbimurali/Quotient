@@ -3,8 +3,8 @@
   "name": "quotientOfTwoNumbers",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/Quotient.git",
+    "ssh": "git@github.com:thumbimurali/Quotient.git",
     "branch": "block_quotientOfTwoNumbers"
   },
   "parentBlockIDs": [
