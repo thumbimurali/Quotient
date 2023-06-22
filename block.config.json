@@ -1,0 +1,20 @@
+{
+  "blockId": "HwSZeG6EKkNa6_weafrQh",
+  "name": "quotientOfTwoNumbers",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/thumbimurali/Quotient.git",
+    "ssh": "git@github.com:thumbimurali/Quotient.git",
+    "branch": "block_quotientOfTwoNumbers"
+  },
+  "parentBlockIDs": [
+    "S1B9C1CoFr15-cHcUlfvH"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
