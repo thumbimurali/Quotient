@@ -1,0 +1,21 @@
+{
+  "name": "Quotient",
+  "type": "package",
+  "blockId": "S1B9C1CoFr15-cHcUlfvH",
+  "source": {
+    "https": "https://github.com/thumbimurali/Quotient.git",
+    "ssh": "git@github.com:thumbimurali/Quotient.git",
+    "branch": "block_Quotient"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "quotientOfTwoNumbers": {
+      "directory": "quotientOfTwoNumbers"
+    }
+  }
+}
